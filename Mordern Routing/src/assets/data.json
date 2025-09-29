@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Sr. React Developer",
+      "salary": 50000,
+      "location": "London UK"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "salary": 40000,
+      "location": "san Fancisco"
+    },
+    {
+      "id": 3,
+      "title": "Jr. UI Developer",
+      "salary": 45000,
+      "location": "Mumbai"
+    },
+    {
+      "id": 4,
+      "title": "Talent Manager",
+      "salary": 70000,
+      "location": "Bangalore"
+    },
+    {
+      "id": 5,
+      "title": "Infrastructuer Er.",
+      "salary": 550000,
+      "location": "Bangalore"
+    }
+  ]
+}
